@@ -2,6 +2,7 @@
 layout: page
 title: Introduction
 permalink: /about/
+nav_order: 1
 ---
 
 # Documentation
