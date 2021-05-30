@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Introduction
+title: README
 permalink: /about/
-nav_order: 1
+nav_exclude: true
 ---
 
 # SCCN Docs
