@@ -1,7 +1,7 @@
 ---
 layout: page
 title: README
-permalink: /about/
+permalink: /readme/
 ---
 
 # SCCN Docs
