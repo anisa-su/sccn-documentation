@@ -1,19 +1,16 @@
 ---
 layout: page
 title: Introduction
-permalink: /introduction/
+permalink: /about/
 ---
 
-# Introduction
-[Seattle Community Cellular Network](https://seattlecommunitynetwork.org/) is a community network. This means that city residents take it upon themselves to maintain and grow the network. A massive amount of cooperation between many different people with many different skills is required to accomplish this, and this website is here to make sure that individuals who want to improve the network can get the knowledge and skills they need to do so. (this is plagiarized from NYC Mesh).
-## Who Should Read This Website
-This website contains information about the technical implementation of the Seattle Community Cellular Network itself. Before reading this website, please read our FAQ. Many common questions are answered there, and this documentation is mostly written with the assumption that readers are already familiar with the answers to our most frequently asked questions.
+# Documentation
+Hello and welcome to the documentation website for [Seattle Community Cellular Network](https://seattlecommunitynetwork.org/)! 
+## About Seattle Community Cellular Network
+We are a community network dedicated to providing fair access to underserved communities all across the Puget Sound. SCCN is a 501(c)(3) registered non-profit in partnership with the University of Washington (UW) that shares free or low-cost broadband access in higher-need areas throughout the city, making use of existing UW and city network infrastructure such as buildings and fiber-optic cables to extend coverage to more people.
 
-Once you have already read our FAQ, then you should consider reading or referring to this website if:
+As a community network, we rely on the help of city residents such as yourself to maintain and grow the network. Joining us is a great way to become an active member of your own community, make friends, as well as learn valuable technical skills. Ask questions in our [Slack chat](https://join.slack.com/t/seattlecommunitynet/shared_invite/zt-kdm2ow00-QXhuqWHpFLTAiLmJN4IIgQ) and connect with our other volunteers or [join our mailing list](https://groups.google.com/a/seattlecommunitynetwork.org/g/local-connectivity-lab/).
+## About This Website
+The SCCN Docs website is the central hub for technical information about our network. Here, we describe the implementation of specific nodes, document installation procedures, and more. Readers are expected to have some basic familiarity with computer networking concepts in order to fully understand the material we cover, but we do try our best to provide links to good educational resources for new volunteers.
 
-* you want to help expand the network by physically installing new nodes,
-* you have computer networking experience and want to help improve the network’s performance or security,
-* you plan to volunteer to monitor or otherwise maintain the network and have questions regarding the configuration of various hardware and software components, or
-* you are interested in knowing details about how NYC Mesh functions that are not already covered by the FAQ.
-
-We are always excited to welcome new volunteers who want to help us continue providing affordable, fair, and fast Internet connectivity to our fair city and so we hope you find this guidebook useful.
+This website itself is maintained by our volunteers, much like the rest of our services. That means you can help us improve it by adding missing information, clarifying confusing points, or even just fixing typos you notice while you’re reading. See our [docs README file](https://github.com/anisa-su/sccn-documentation/blob/gh-pages/README.md) to learn more about how you can contribute to this website.
