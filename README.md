@@ -1,3 +1,10 @@
+---
+layout: page
+title: Introduction
+permalink: /about/
+nav_order: 1
+---
+
 # SCCN Docs
 This repository contains the contents of the [Seattle Community Cellular Network Documentation website](https://anisa-su.github.io/sccn-documentation/). It is intended to provide interested community members s guidebook discussing how to get involved in the community network from a technical perspective.
 
