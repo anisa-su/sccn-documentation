@@ -1,3 +1,9 @@
+---
+layout: page
+permalink: /about/
+nav_exclude: true
+---
+
 # Documentation
 Hello and welcome to the documentation site for [SCCN!](https://seattlecommunitynetwork.org/) 
 ## About SCCN
